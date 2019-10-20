@@ -1,20 +1,23 @@
-# Instructions
-1. Copy this document and rename it, replacing "template" with your last name, an underscore, and your first name (for example, mine would end up being `written_assessment_Greenhalgh_Spencer`
-2. Fill out the sections below; you do not need to write a lot, but you do need to be specific. You can delete the instructions in blockquote (the text beginning with `>`) after you fill out each section. You will earn half a point for each prompt that you respond to and an additional half a point for each prompt where you provide specific details.
-3. Delete this instructions section and replace it with your name.
+Ashley McCann
 
 # What Is Being Done?
-
-> Use this section to describe the work that you are committing to do so that you and your classmates will have a dependable reference guide to CMSs at the end of the semester. As much as possible, try to describe commitments individually, as separate tasks, rather than as a general responsibility.
+As an editor, I will primarily be contributing content for our Guidebook. I have been assigned the "Hugo Chapter." We currently have three subheadings that I will explain ("Features" "Theme Directroy" and "Theme Files"). More may be added later. I will write a detailed explaning Hugo an unfamiliar reader. I will incorporate feedback from my fellow editors and add terms to our glossary. 
 
 # When Is It Being Done?
-
-> Use this section to describe when you will begin each of your commitments, when you will complete each of them by, and (if appropriate), how much time you expect to spend on each of them.
+I will try to a rough draft finished by mid-November in order to provide a placeholder as we develop the guidebook and in order to receive and adjust for feedback. I will have the revised final draft by the beginning of December, as a failsafe in case any final revisions need made. 
 
 # How Will It Be Evaluated?
+For my content, I think some guidelines for my colleague to consider are: 
+CONTENT: (3 points)
+Does the chapter accurately explain the concepts listed?
+READIBILITY: (3 points)
+Does the chapter explain the concepts in enough detail for a reader to get a good understanding, while being accessible enough for someone unfamiliar with the subject to undersand?
+SPELLING/GRAMMAR: (1 point) 
+Are there any glaring mistakes in the content? Does the content reflect a well-thought out work? 
+PUNCTUALITY
+Was the content completed at an accecptable time? 
 
-> The colleague that you name below will be assessing your work throughout the semester with a total of eight points. Describe the standards that your colleague should use and the considerations they should make when deciding how many of those points you will earn.
+
 
 # Who Will Evaluate It?
-
-> Name a colleague in the class (not me!) whom you feel is in a good position to evaluate your work. Referencing your class organization and workflows, describe why you feel that colleague is best suited to evaluate your work at the end of the semester.
+I am choosing Madeline Perry to evaluate me. As a fellow editor, she will know the standards by which the rest of our group's chapters achieve. And since I have discussed multiple prompts with her in class, I trust that she will know and be able to fairly assess the quality of my work. 
